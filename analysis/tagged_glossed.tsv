@@ -1589,18 +1589,18 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 23.01.031	128.15	καὶ	καὶ	καί	καί	conjunction	-	and
 23.01.032	128.16	ἱκανὸς	ἱκανὸς	ἱκανός	ἱκανός	adjective	NSM	sufficient
 23.01.033	128.17	ἔσῃ.	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	you will be
-24.01.001	129.01	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	this; that
-24.01.002	129.02	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
+24.01.001	129.01	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	these
+24.01.002	129.02	σε	σε	σε	σύ	pronoun	AS-2	you
 24.01.003	129.03	οἱ	οἱ	οἱ	ὁ	article	NPM	the
-24.01.004	129.04	διαλογισμοὶ	διαλογισμοὶ	διαλογισμοί	διαλογισμός	noun	NPM	a balancing of accounts
+24.01.004	129.04	διαλογισμοὶ	διαλογισμοὶ	διαλογισμοί	διαλογισμός	noun	NPM	considerations
 24.01.005	129.05	μὴ	μὴ	μή	μή	conjunction	-	not
-24.01.006	129.06	θλιβέτωσαν	θλιβέτωσαν	θλιβέτωσαν	θλίβω	verb	PAD.3P	to press, squeeze, pinch
-24.01.007	129.07	«ἄτιμος	ἄτιμος	ἄτιμος	ἄτιμος	adjective	NSZ	unhonoured, dishonoured
-24.01.008	129.08	ἐγὼ	ἐγὼ	ἐγώ	ἐγώ	pronoun	NSZ1	I (first person pronoun)
-24.01.009	129.09	βιώσομαι	βιώσομαι	βιώσομαι	βιόω	verb	AMS.1S^FMI.1S	to live, pass one's life
-24.01.010	129.10	καὶ	καὶ	καί	καί	conjunction	-	and, also
-24.01.011	129.11	οὐδεὶς	οὐδεὶς	οὐδείς	οὐδείς	pronoun	NSM	not one, nobody
-24.01.012	129.12	οὐδαμοῦ.»	οὐδαμοῦ	οὐδαμοῦ	οὐδαμός	adverb@case	GSY	not even one, no one
+24.01.006	129.06	θλιβέτωσαν	θλιβέτωσαν	θλιβέτωσαν	θλίβω	verb	PAD.3P	let [them] distress
+24.01.007	129.07	«ἄτιμος	ἄτιμος	ἄτιμος	ἄτιμος	adjective	NSZ	dishonoured
+24.01.008	129.08	ἐγὼ	ἐγὼ	ἐγώ	ἐγώ	pronoun	NSZ1	I
+24.01.009	129.09	βιώσομαι	βιώσομαι	βιώσομαι	βιόω	verb	FMI.1S	I will live
+24.01.010	129.10	καὶ	καὶ	καί	καί	conjunction	-	and
+24.01.011	129.11	οὐδεὶς	οὐδεὶς	οὐδείς	οὐδείς	pronoun	NSM	nobody
+24.01.012	129.12	οὐδαμοῦ.»	οὐδαμοῦ	οὐδαμοῦ	οὐδαμός	adverb	-	nowhere
 24.01.013	130.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
 24.01.014	130.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 24.01.015	130.03	ἡ	ἡ	ἡ	ὁ	article	NSF	the

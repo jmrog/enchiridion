@@ -2619,3 +2619,23 @@ A. Be contented, then, in everything with being a philosopher; and, if you wish 
 B. Be contented, then, in everything, with being a philosopher; and if you wish to seem so likewise to any one, appear so to yourself, and it will suffice you.
 C. Be satisfied then in every thing with being a philosopher; and if you wish to seem also to any person to be a philosopher, appear so to yourself, and you will be able to do this.
 D. Be content then always to be a philosopher; if you wish to be regarded as one too, show yourself that you are one and you will be able to achieve it.
+
+# 129
+
+24.01.001	129.01	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	these
+24.01.002	129.02	σε	σε	σε	σύ	pronoun	AS-2	you
+24.01.003	129.03	οἱ	οἱ	οἱ	ὁ	article	NPM	the
+24.01.004	129.04	διαλογισμοὶ	διαλογισμοὶ	διαλογισμοί	διαλογισμός	noun	NPM	considerations
+24.01.005	129.05	μὴ	μὴ	μή	μή	conjunction	-	not
+24.01.006	129.06	θλιβέτωσαν	θλιβέτωσαν	θλιβέτωσαν	θλίβω	verb	PAD.3P	let [them] distress
+24.01.007	129.07	«ἄτιμος	ἄτιμος	ἄτιμος	ἄτιμος	adjective	NSZ	dishonoured
+24.01.008	129.08	ἐγὼ	ἐγὼ	ἐγώ	ἐγώ	pronoun	NSZ1	I
+24.01.009	129.09	βιώσομαι	βιώσομαι	βιώσομαι	βιόω	verb	FMI.1S	I will live
+24.01.010	129.10	καὶ	καὶ	καί	καί	conjunction	-	and
+24.01.011	129.11	οὐδεὶς	οὐδεὶς	οὐδείς	οὐδείς	pronoun	NSM	nobody
+24.01.012	129.12	οὐδαμοῦ.»	οὐδαμοῦ	οὐδαμοῦ	οὐδαμός	adverb	-	nowhere
+
+A. Don't allow such considerations as these distress you. "I will live in dishonor, and be nobody anywhere."
+B. Let not such considerations as these distress you: "I shall live in discredit, and be nobody anywhere."
+C. Let not these thoughts afflict you, I shall live unhonoured and be nobody nowhere.
+D. Let not reflections such as these afflict you: 'I shall live without honour, and never be of any account';
